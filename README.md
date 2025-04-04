@@ -80,8 +80,3 @@ python blind_navigation.py
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit **issues or pull requests**.
-
-## 🌐 Connect with Me
-📧 Email: Shahdeepak018@gmail.com  
-🔗 LinkedIn: [ShahAnalytics](https://www.linkedin.com/in/ShahAnalytics)  
-🐙 GitHub: [D-Shah28](https://github.com/D-Shah28)  
